@@ -1,0 +1,70 @@
+import java.util.Scanner;
+
+class FullTimeEMP {  
+   
+int  salary,Experience;  
+String name, address, Position,Educationallevel,email;  
+
+
+public int getSalary() {  
+    return salary;  
+}  
+public void setSalary(int salary) {  
+    this.salary = salary;  
+}
+public int getexperience() {  
+    return experience;  
+}  
+public void setexperience(int experience) {  
+    this.experience = experience;  
+}
+public String getPosition() {  
+    return Position;  
+}  
+public void setPosition(String Position) {  
+    this.Position = Position;  
+}
+public int getName() {  
+    return salaryName;  
+}  
+public void setName(String Name) {  
+    this.Name = Name;  
+}
+static 
+}
+
+
+
+
+/////////
+public class PartTImeEMP{  
+    int  salary,Experience;  
+String name, address, Position,Educationallevel,email;  
+    public static void main(String args[]) { 
+        public int getSalary() {  
+    return salary;  
+}  
+public void setSalary(int salary) {  
+    this.salary = salary;  
+}
+public int getexperience() {  
+    return experience;  
+}  
+public void setexperience(int experience) {  
+    this.experience = experience;  
+}
+public String getPosition() {  
+    return Position;  
+}  
+public void setPosition(String Position) {  
+    this.Position = Position;  
+}
+public int getName() {  
+    return salaryName;  
+}  
+public void setName(String Name) {  
+    this.Name = Name;  
+}
+
+        
+    }  
